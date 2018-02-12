@@ -1,0 +1,18 @@
+commit 801b6a15c5f3542d59c062ef13c8aa617d68c0da (HEAD -> master)
+Author: Vasilii <vasil.terentyev.1@mail.ru>
+Date:   Mon Feb 12 17:13:57 2018 +0300
+
+    add C:/Users/Dell/Repository/task1/status.txt
+
+commit 157dde3039ff94b5f18f965c394ebc9d08edcce3
+Author: Vasilii <vasil.terentyev.1@mail.ru>
+Date:   Mon Feb 12 15:44:35 2018 +0300
+
+    add .gitignore
+
+commit a91f52dde75614836cf526c9c435f00b4c6d8bc6
+Author: Vasilii <vasil.terentyev.1@mail.ru>
+Date:   Mon Feb 12 15:37:39 2018 +0300
+
+    add .gitignore
+
